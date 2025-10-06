@@ -60,7 +60,8 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "/GAT_WEB/"
             },
             "development": {
               "optimization": false,
@@ -106,5 +107,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "02ce6afc-4e15-4b08-877d-0d24ab0a49aa"
   }
 }
