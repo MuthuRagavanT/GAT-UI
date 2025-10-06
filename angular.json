@@ -61,7 +61,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/GAT_WEB/"
+              "baseHref": "/GAT-UI/"
             },
             "development": {
               "optimization": false,
